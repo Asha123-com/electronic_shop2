@@ -3,14 +3,50 @@
 A new Flutter project
 
 ## Getting Started
+![Screenshot 2024-09-17 214915-landscape](https://github.com/user-attachments/assets/8571ba10-bc0d-4899-b1cc-348c3d8ed44c)
+![Screenshot 2024-09-17 215131-portrait](https://github.com/user-attachments/assets/9fc8b145-dd56-45b7-bbd9-bcffc5b9e3d8)
+![Screenshot 2024-09-17 215131-left](https://github.com/user-attachments/assets/bbf733b8-4484-459e-9abd-9b7f54496e97)
+![Screenshot 2024-09-17 215131-landscape](https://github.com/user-attachments/assets/66b66547-ae8a-4f92-be6a-019b58799bf4)
+![Screenshot 2024-09-17 215108-portrait](https://github.com/user-attachments/assets/30ea6326-9224-418d-ae7b-340289ff349f)
+![Screenshot 2024-09-17 215108-left](https://github.com/user-attachments/assets/16eec2b5-b68c-4eb0-8032-df9b1ca04a7f)
+![Screenshot 2024-09-17 215108-landscape](https://github.com/user-attachments/assets/dfaa481a-b99d-4f64-af11-f9f783ba3aa6)
+![Screenshot 2024-09-17 215019-portrait](https://github.com/user-attachments/assets/94ea218e-0e76-4bf1-9746-68e394a9832a)
+![Screenshot 2024-09-17 215336-left](https://github.com/user-attachments/assets/4f8858c6-ea31-434c-8cd9-a5273325e84f)
+![Screenshot 2024-09-17 215336-landscape](https://github.com/user-attachments/assets/584d553f-e84d-4f50-895d-61936616c68f)
+![Screenshot 2024-09-17 215248-portrait](https://github.com/user-attachments/assets/c4adf028-4f01-4c4c-9b44-2000ccad5ec2)
+![Screenshot 2024-09-17 215248-left](https://github.com/user-attachments/assets/5268fe44-c922-4831-be19-7e8032258b5f)
+![Screenshot 2024-09-17 215248-landscape](https://github.com/user-attachments/assets/17cb8b75-4ae4-4ced-b296-9a00d8d71721)
+![Screenshot 2024-09-17 215210-portrait](https://github.com/user-attachments/assets/f14945ca-36ca-42af-ad93-d56d2dc1e392)
+![Screenshot 2024-09-17 215210-left](https://github.com/user-attachments/assets/d31e4ae8-192f-4981-8f07-1cdb96272976)
+![Screenshot 2024-09-17 215210-landscape](https://github.com/user-attachments/assets/6b78d345-1c21-4718-aa7f-47d917c5fb5d)
+![Screenshot 2024-09-18 093922-portrait](https://github.com/user-attachments/assets/1b071f8e-63a6-4f45-88b6-69c7c4fa5d84)
+![Screenshot 2024-09-18 093922-left](https://github.com/user-attachments/assets/4e6f65e8-3de0-4cfd-a4fe-394794475e84)
+![Screenshot 2024-09-18 093922-landscape](https://github.com/user-attachments/assets/77a082a8-d164-49c4-ae9e-ae3a30b6c840)
+![Screenshot 2024-09-18 092926-portrait](https://github.com/user-attachments/assets/f77892a9-707f-4eb0-9ae0-443a704e7171)
+![Screenshot 2024-09-18 092926-left](https://github.com/user-attachments/assets/bc4b7c99-5bf2-44f9-b44e-8b2296506f4f)
+![Screenshot 2024-09-18 092926-landscape](https://github.com/user-attachments/assets/d47a8c98-e579-42aa-a25b-0a05bed61b56)
+![Screenshot 2024-09-17 215641-portrait](https://github.com/user-attachments/assets/cd4923fc-74d8-4b9f-b100-814847d370a3)
+![Screenshot 2024-09-17 215641-left](https://github.com/user-attachments/assets/d9b47b4a-cad0-4d6b-9276-64713848dbcc)
+![Screenshot 2024-09-17 215641-landscape](https://github.com/user-attachments/assets/4581eccf-9f54-4124-9fd1-ee3a8b1cff87)
+![Screenshot 2024-09-17 215542-portrait](https://github.com/user-attachments/assets/4594740d-1d4c-4445-88fe-9229596493d0)
+![Screenshot 2024-09-17 215542-left](https://github.com/user-attachments/assets/d539b514-e374-4259-9b4e-e4e67e705350)
+![Screenshot 2024-09-17 215542-landscape](https://github.com/user-attachments/assets/414b48d0-12b1-4b64-8be3-1a8e5d6e8b62)
+![Screenshot 2024-09-17 215336-portrait](https://github.com/user-attachments/assets/e59d4c67-64d2-4f50-a7aa-8d3e6a48ee78)
+![Screenshot 2024-09-14 104203-portrait](https://github.com/user-attachments/assets/0237456d-4406-40be-8e1e-cec33b36b67d)
+![Screenshot 2024-09-14 104203-left](https://github.com/user-attachments/assets/3f5b6e8f-e1b8-4869-896f-48a2f6247beb)
+![Screenshot 2024-09-14 104203-landscape](https://github.com/user-attachments/assets/9e30731d-64c9-4232-8686-10cb1decc560)
+![Screenshot 2024-09-17 214757-landscape](https://github.com/user-attachments/assets/964ab77a-0b17-4922-94bd-47385da05683)
+![Screenshot 2024-09-17 214742-portrait](https://github.com/user-attachments/assets/ee3ada67-9ca0-4c52-bad6-d5ec662e9ec5)
+![Screenshot 2024-09-17 214742-left](https://github.com/user-attachments/assets/786fa417-67ef-4f02-b98f-fa7fd89d8286)
+![Screenshot 2024-09-17 214742-landscape](https://github.com/user-attachments/assets/dd48e5c4-6637-422f-9519-2c641d846b4c)
+![Screenshot 2024-09-17 214816-portrait](https://github.com/user-attachments/assets/bb133f58-05a6-4f13-b34e-beae22543cee)
+![Screenshot 2024-09-17 214816-left](https://github.com/user-attachments/assets/fb8d1850-6f6b-45d1-8c37-2f2cd239be16)
+![Screenshot 2024-09-17 214816-landscape](https://github.com/user-attachments/assets/ff086675-e924-4622-b4c8-20e779643fd7)
+![Screenshot 2024-09-17 214757-portrait](https://github.com/user-attachments/assets/51cfaa93-6bb1-4efe-be17-72dfb95631d9)
+![Screenshot 2024-09-17 214757-left](https://github.com/user-attachments/assets/7bd1cdbb-76ac-4633-93a1-93854568fcbb)
+![Screenshot 2024-09-17 215019-left](https://github.com/user-attachments/assets/c5131d56-1910-405c-909b-a0e8adc948c7)
+![Screenshot 2024-09-17 215019-landscape](https://github.com/user-attachments/assets/e04ea675-cd8e-4396-b9fa-9330e5b7518c)
+![Screenshot 2024-09-17 214915-portrait](https://github.com/user-attachments/assets/03516446-1fea-4b3b-8e22-8191791c263b)
+![Screenshot 2024-09-17 214915-left](https://github.com/user-attachments/assets/0e3c9fe1-5f4a-4ead-bfba-9e07a7d55341)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
